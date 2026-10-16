@@ -1,17 +1,16 @@
 {
-    "name": "voice-record-js",
-    "version": "1.0.0",
-    "description": "Bandwidth Sample App Demonstrating the Record BXML Verb",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "author": "Bandwidth",
-    "license": "MIT",
-    "dependencies": {
-      "bandwidth-sdk": "1.0.0",
-      "express": "^4.21.2"
-    }
+  "name": "voice-record-js",
+  "version": "1.0.0",
+  "description": "Bandwidth Sample App Demonstrating the Record BXML Verb",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bandwidth",
+  "license": "MIT",
+  "dependencies": {
+    "bandwidth-sdk": "8.3.1",
+    "express": "5.3.0"
   }
-  
+}
